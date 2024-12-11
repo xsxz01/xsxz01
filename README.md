@@ -50,10 +50,6 @@ __Check out my GitHub repository:__
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
   <a href="https://www.rust-lang.org/" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Rust-%23007396.svg?logo=rust&logoColor=white">
   </a>
@@ -61,14 +57,18 @@ __Check out my GitHub repository:__
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
 </p>
 
 ### 👉 Frontend Development
 <p align="left"> 
+   &emsp;
+  <a href="https://angular.dev/" target="_blank"> 
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-%23563D7C.svg?style=flat&logo=angular&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%23563D7C.svg?style=flat&logo=vuedotjs&logoColor=white"/>
+  </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
@@ -76,21 +76,17 @@ __Check out my GitHub repository:__
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23327FC7.svg?style=flat&logo=postgresql&logoColor=white"></a>
  </p>
 
  ### 👉 Software & Tools
