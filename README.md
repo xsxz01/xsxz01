@@ -9,7 +9,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate majoring in network engineering in Yuncheng University. Java, Python, Javascript, C #, C++and HTML are the programming languages I am good at. I like to learn and create new, productive, innovative and creative things.
+I am an undergraduate majoring in network engineering in Yuncheng University. Rust, Python, Typescript, C# and C++ are the programming languages I am good at. I like to learn and create new, productive, innovative and creative things.
 * **I am interested in web design, Android development and desktop development**
 - 🌱 I’m currently learning ...
   - Rust
@@ -17,17 +17,17 @@ I am an undergraduate majoring in network engineering in Yuncheng University. Ja
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="1502724957@qq.com">1502724957@qq.com</a>
+- 📫 Reach out to me at: <a href="mailto://pangyuyu@email.cn">pangyuyu@email.cn</a>
 
 __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/xsxz01/furry-Toolkit.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=xsxz01&repo=furry-Toolkit" alt="GitHub Stats" />
+    <a href="https://github.com/xsxz01/pocketpy_rs.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=xsxz01&repo=pocketpy_rs" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/xsxz01/PyQt5DesignMode.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=xsxz01&repo=PyQt5DesignMode" alt="GitHub Stats" />
+    <a href="https://github.com/xsxz01/ch9329_driver_rs.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=xsxz01&repo=ch9329_driver_rs" alt="GitHub Stats" />
     </a>
   </p>
 </div>
@@ -114,10 +114,6 @@ __Check out my GitHub repository:__
 <h2>👀 My github Stats</h2>
 
 <div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=xsxz01&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
@@ -131,4 +127,4 @@ __Check out my GitHub repository:__
 ---------------------------------------------------------------------------------------------------------------------
 Credits: <a href="https://github.com/xsxz01">xsxz01</a>
 
-Date: 18/11/2021
+Date: 17/12/2024
