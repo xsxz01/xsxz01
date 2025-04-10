@@ -11,9 +11,11 @@
 
 I am an undergraduate majoring in network engineering in Yuncheng University. Rust, Python, Typescript, C# and C++ are the programming languages I am good at. I like to learn and create new, productive, innovative and creative things.
 * **I am interested in web design, Android development and desktop development**
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently using ...
   - Rust
-  - Flutter
+  - CPP
+  - Angular
+  - ESP32
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
